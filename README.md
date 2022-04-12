@@ -39,7 +39,7 @@ A versão final se encontra no arquivo bitcoin_pandas_dag.py.
 ## Como executar localmente esse projeto em sua máquina
 - baixe esse repositório localmente em sua máquina:  
 > git clone https://github.com/rafaelcoelho1409/DataEngineering2.git  
-- Instale os pacotes necessários que estão no arquivo dataeng_requirements.txt:  
+- Instale os pacotes necessários que estão no arquivo dataeng2_requirements.txt:  
 > pip3 install -r dataeng2_requirements.txt  
 - escolha seu interpretador python (python3, python3.x)  
 - instale o airflow:  
